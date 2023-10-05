@@ -44,3 +44,6 @@ The decsion tree classifier model with hyperparameter tuning has the best perfor
 ## Further Improvement
 
 To further improve the model it would be good to have more data, and to test more models, including a neural net and random forest on this data. We can also revist feature importance to see if changing the number of features included would improve the model.
+
+#### Logistic Regression Model Confusion Matrix
+![Logistic Regression Confusion Matrix](https://i.imgur.com/1rhuJUi.png)
