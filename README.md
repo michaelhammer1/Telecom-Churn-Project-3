@@ -29,7 +29,7 @@ This data represents 3333 customers over a period of 9 months. Each row represen
 ![Churn percentage](https://i.imgur.com/wMylDv4.png)
 
 #### Feature Correlation to Churn
-<img src="https://imgur.com/QXZYHDm" width=50% height=50%>
+<img src="https://i.imgur.com/QXZYHDm.png" width=50% height=50%>
 
 #### Decision Tree with Hyperparameter Adjustments Confusion Matrix
 <img src="https://i.imgur.com/7iyP1Vb" width=50% height=50%>
