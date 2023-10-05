@@ -26,7 +26,7 @@ This data represents 3333 customers over a period of 9 months. Each row represen
 
 ## Visualizations
 
-![Churn percentage](https://i.imgur.com/a/WVISEPA.png](https://i.imgur.com/wMylDv4.png)
+![Churn percentage](https://i.imgur.com/a/WVISEPA.png)
 
 #### Feature Correlation to Churn
 <img src="https://imgur.com/QXZYHDm" width=50% height=50%>
