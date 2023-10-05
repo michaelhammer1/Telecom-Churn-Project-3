@@ -32,7 +32,7 @@ This data represents 3333 customers over a period of 9 months. Each row represen
 <img src="https://imgur.com/QXZYHDm" width=50% height=50%>
 
 #### Decision Tree with Hyperparameter Adjustments Confusion Matrix
-<img src="https://imgur.com/7iyP1Vb" width=50% height=50%>
+<img src="https://i.imgur.com/7iyP1Vb" width=50% height=50%>
 
 #### Logistic Regression Confusion Matrix
 <img src="https://imgur.com/I1vubYi" width=50% height=50%>
