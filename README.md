@@ -26,6 +26,7 @@ This data represents 3333 customers over a period of 9 months. Each row represen
 
 ## Visualizations
 
+<<<<<<< HEAD
 ![Churn percentage](https://imgur.com/a/WVISEPA)
 
 #### Feature Correlation to Churn
@@ -36,6 +37,18 @@ This data represents 3333 customers over a period of 9 months. Each row represen
 
 #### Logistic Regression Confusion Matrix
 <img src="https://imgur.com/I1vubYi" width=50% height=50%>
+=======
+![Churn percentage](https://i.imgur.com/wMylDv4.png)
+
+#### Feature Correlation to Churn
+<img src="https://i.imgur.com/QXZYHDm.png" width=50% height=50%>
+
+#### Decision Tree with Hyperparameter Adjustments Confusion Matrix
+<img src="https://i.imgur.com/7iyP1Vb.png" width=50% height=50%>
+
+#### Logistic Regression Confusion Matrix
+<img src="https://i.imgur.com/I1vubYi.png" width=50% height=50%>
+>>>>>>> 2d9ef074f176c78c60d398c0a821f8afb2de8972
 
 ## Conclusion
 
@@ -43,4 +56,8 @@ The decsion tree classifier model with hyperparameter tuning has the best perfor
 
 ## Further Improvement
 
+<<<<<<< HEAD
 To further improve the model it would be good to have more data, and to test more models, including a neural net and random forest on this data. We can also revist feature importance to see if changing the number of features included would improve the model.
+=======
+To further improve the model it would be good to have more data, and to test more models, including a neural net and random forest on this data. We can also revist feature importance to see if changing the number of features included would improve the model.
+>>>>>>> 2d9ef074f176c78c60d398c0a821f8afb2de8972
