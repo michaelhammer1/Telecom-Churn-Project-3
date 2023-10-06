@@ -20,6 +20,7 @@ The goal of this predictor is to build binary classification models and find the
 ## Data Source
 
 [Churn in Telecom Customers](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset/code)
+![image](https://github.com/michaelhammer1/Telecom-Churn-Project-3/blob/main/data/Screenshot%202023-10-06%20at%204.17.16%20PM.png)
 
 Description of data:
 This data represents 3333 customers over a period of 9 months. Each row represents a unique phone number and account. There are 21 features in the columns including the number of voicemail messages recieved and the total number of minutes the person spoke on the phone.
