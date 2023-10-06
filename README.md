@@ -5,17 +5,17 @@
 # Project Overview
 
 ## Key Business Problem
-It is 6X cheaper for a telecom company to target a customer who may churn than to acquire a new customer. So, build a classifier to predict customers most likely to churn given information about how much time they speak on the phone, if they contact customer service and if they use voicemail, etc,. This is a binary classification problem.
+It is 6X cheaper for a telecom company to target a customer who may churn than to acquire a new customer. So, we build a classifier to predict customers most likely to churn given information about how much time they speak on the phone, if they contact customer service and if they use voicemail, etc,. This is a binary classification problem.
 
 ## Stakeholders
 
-The dataset is from SyriaTel a Syrian telecom company that seemingly did business in the US or that acquired a US based dataset. The predictions coming out of the model will be most useful for US telecom companies including Verizon, AT&T and T-Mobile. Smaller telecom providers including U.S. Cellular, Union Wireless and Thumb Cellular.
+The dataset is from SyriaTel a Syrian telecom company that seemingly did business in the US or that acquired a US based dataset. The predictions coming out of the model will be most useful for US telecom companies including Verizon, AT&T and T-Mobile. Smaller telecom providers including U.S. Cellular, Union Wireless and Thumb Cellular may also find this useful.
 
 Within these businesses, the advertising and client retention teams should be most interested in this predictor. Management should also use this predictor when deciding how to allocate capital between new customer acquisition and customer retention. 
 
 ## Data Understanding and Analysis
 
-The goal of this predictor is to build binary classification models and find the most effective one in terms of accuracy.
+The goal of this predictor is to build binary classification models and find the most effective one in terms of recall.
 
 ## Data Source
 
@@ -26,7 +26,6 @@ This data represents 3333 customers over a period of 9 months. Each row represen
 
 ## Visualizations
 
-<<<<<<< HEAD
 ![Churn percentage](https://imgur.com/a/WVISEPA)
 
 #### Feature Correlation to Churn
@@ -52,12 +51,11 @@ This data represents 3333 customers over a period of 9 months. Each row represen
 
 ## Conclusion
 
-The decsion tree classifier model with hyperparameter tuning has the best performance at predicting the churn rate of telecom customers. It has an accuracy of 0.915
+The decsion tree classifier model with hyperparameter tuning has the best performance at predicting the churn rate of telecom customers. It has a recall of 0.86
 
 ## Further Improvement
 
-<<<<<<< HEAD
 To further improve the model it would be good to have more data, and to test more models, including a neural net and random forest on this data. We can also revist feature importance to see if changing the number of features included would improve the model.
-=======
+
 To further improve the model it would be good to have more data, and to test more models, including a neural net and random forest on this data. We can also revist feature importance to see if changing the number of features included would improve the model.
->>>>>>> 2d9ef074f176c78c60d398c0a821f8afb2de8972
+
