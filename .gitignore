@@ -27,7 +27,6 @@ share/python-wheels/
 MANIFEST
 
 #Data files
-*.csv
 *.gz
 *.db
 *.DS_Store
