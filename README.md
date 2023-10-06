@@ -31,29 +31,18 @@ This data represents 3333 customers over a period of 9 months. Each row represen
 
 ![Churn percentage](https://github.com/michaelhammer1/Telecom-Churn-Project-3/blob/main/data/Screenshot%202023-10-06%20at%204.17.16%20PM.png)
 
-#### Dummy Classifier Confusion Matrix
-![Dummy Classifier](https://github.com/michaelhammer1/Telecom-Churn-Project-3/blob/main/data/Screenshot%202023-10-06%20at%204.17.23%20PM.png)
-
-#### Feature Correlation to Churn
-<img src="https://imgur.com/QXZYHDm" width=50% height=50%>
-
-#### Decision Tree with Hyperparameter Adjustments Confusion Matrix
-<img src="https://imgur.com/7iyP1Vb" width=50% height=50%>
-
-#### Logistic Regression Confusion Matrix
-<img src="https://imgur.com/I1vubYi" width=50% height=50%>
-=======
-![Churn percentage](https://i.imgur.com/wMylDv4.png)
-
 #### Feature Correlation to Churn
 <img src="https://i.imgur.com/QXZYHDm.png" width=50% height=50%>
 
+#### Dummy Classifier Confusion Matrix
+![Dummy Classifier](https://github.com/michaelhammer1/Telecom-Churn-Project-3/blob/main/data/Screenshot%202023-10-06%20at%204.17.23%20PM.png)
+
+
 #### Decision Tree with Hyperparameter Adjustments Confusion Matrix
-<img src="https://i.imgur.com/7iyP1Vb.png" width=50% height=50%>
+![image](https://github.com/michaelhammer1/Telecom-Churn-Project-3/blob/main/data/Screenshot%202023-10-06%20at%204.17.48%20PM.png)
 
 #### Logistic Regression Confusion Matrix
-<img src="https://i.imgur.com/I1vubYi.png" width=50% height=50%>
->>>>>>> 2d9ef074f176c78c60d398c0a821f8afb2de8972
+![image](https://github.com/michaelhammer1/Telecom-Churn-Project-3/blob/main/data/Screenshot%202023-10-06%20at%204.17.56%20PM.png)
 
 ## Conclusion
 
