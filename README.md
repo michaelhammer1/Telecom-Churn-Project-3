@@ -31,6 +31,9 @@ This data represents 3333 customers over a period of 9 months. Each row represen
 
 ![Churn percentage](https://github.com/michaelhammer1/Telecom-Churn-Project-3/blob/main/data/Screenshot%202023-10-06%20at%204.17.16%20PM.png)
 
+#### Dummy Classifier Confusion Matrix
+![Dummy Classifier](https://github.com/michaelhammer1/Telecom-Churn-Project-3/blob/main/data/Screenshot%202023-10-06%20at%204.17.23%20PM.png)
+
 #### Feature Correlation to Churn
 <img src="https://imgur.com/QXZYHDm" width=50% height=50%>
 
